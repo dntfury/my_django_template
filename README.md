@@ -1,5 +1,14 @@
 # Base Applcation for Starting in Django
 
+[![Python Version](https://img.shields.io/badge/python-3.7-brightgreen.svg)](https://python.org)
+[![Django Version](https://img.shields.io/badge/django-2.1-brightgreen.svg)](https://djangoproject.com)
+
+(https://img.shields.io/badge/<new>-<Project>-<green>)
+
+
+>Credit To https://simpleisbetterthancomplex.com/videos/2018/11/04/django-auth-video-tutorial.html 
+
+
 ### What is this
 
 Django Based Auth Project for developing new Application which required authentication

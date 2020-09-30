@@ -41,7 +41,7 @@ To add User email manually "if user exist"
 
 >a.save()
 
->exit()
+>>exit()
 
 To Run server
 
@@ -49,4 +49,3 @@ To Run server
 
 open 127.0.0.1:8000
 
-to add usermail(fake for local):Instruction yet to be added

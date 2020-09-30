@@ -41,7 +41,7 @@ To add User email manually "if user exist"
 
 >a.save()
 
->>exit()
+>exit()
 
 To Run server
 

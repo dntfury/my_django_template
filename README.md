@@ -15,7 +15,7 @@ Django Based Auth Project for developing new Application which required authenti
 
 >Reset Password (Local Email Based SMTP based not done)
 
->@login_reuired pages
+>@login_required pages
 
 ### Requirements and Installation
 Python 3.7
@@ -26,6 +26,24 @@ Django==3.0.8
 ### How To Run the project
 goto directory "mysite"
 >python manage.py migrate. 
+
+To test mail local
+>python manage.py senttestmail test@testmail.com
+
+To add User email manually "if user exist"
+>python manage.py shell
+
+>from django.contrib.auth.models import User
+
+>a= User.objects.get(username="<username>")  
+
+>a.email ="<username>@testmail.com"
+
+>a.save()
+
+>exit()
+
+To Run server
 
 >python manage.py runserver.
 

@@ -19,9 +19,10 @@ Django==3.0.8
 
 ### How To Run the project
 goto directory "mysite"
->python manage.py migrate
->python manage.py runserver
+>python manage.py migrate. 
+
+>python manage.py runserver.
 
 open 127.0.0.1:8000
 
-to add usermail(fake for local):
+to add usermail(fake for local):INstruction yet to be added

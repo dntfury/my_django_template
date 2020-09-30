@@ -4,11 +4,17 @@
 
 Django Based Auth Project for developing new Application which required authentication
 >IT INCLUDE
+
 >Registration
+
 >Login
+
 >Logout
+
 >Change Password
+
 >Reset Password (Local Email Based SMTP based not done)
+
 >@login_reuired pages
 
 ### Requirements and Installation
@@ -25,4 +31,4 @@ goto directory "mysite"
 
 open 127.0.0.1:8000
 
-to add usermail(fake for local):INstruction yet to be added
+to add usermail(fake for local):Instruction yet to be added

@@ -1,6 +1,6 @@
 # Base Applcation for Starting in Django
 
-###What is this
+### What is this
 
 Django Based Auth Project for developing new Application which required authentication
 >IT INCLUDE
@@ -11,13 +11,13 @@ Django Based Auth Project for developing new Application which required authenti
 >Reset Password (Local Email Based SMTP based not done)
 >@login_reuired pages
 
-###Requirements and Installation
+### Requirements and Installation
 Python 3.7
 Django==3.0.8
 
 >pip install django-crispy-forms
 
-###How To Run the project
+### How To Run the project
 goto directory "mysite"
 >python manage.py migrate
 >python manage.py runserver
